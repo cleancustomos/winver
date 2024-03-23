@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("winver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd87df91afd51a4b4171b1488a2a3a533245adf6")]
 [assembly: System.Reflection.AssemblyProductAttribute("winver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("winver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
