@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CleanOS Repo\\winver\\winver.csproj": {}
+    "D:\\CleanOS Repo\\Projeler\\winver\\winver.csproj": {}
   },
   "projects": {
-    "D:\\CleanOS Repo\\winver\\winver.csproj": {
+    "D:\\CleanOS Repo\\Projeler\\winver\\winver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CleanOS Repo\\winver\\winver.csproj",
+        "projectUniqueName": "D:\\CleanOS Repo\\Projeler\\winver\\winver.csproj",
         "projectName": "winver",
-        "projectPath": "D:\\CleanOS Repo\\winver\\winver.csproj",
+        "projectPath": "D:\\CleanOS Repo\\Projeler\\winver\\winver.csproj",
         "packagesPath": "C:\\Users\\shades\\.nuget\\packages\\",
-        "outputPath": "D:\\CleanOS Repo\\winver\\obj\\",
+        "outputPath": "D:\\CleanOS Repo\\Projeler\\winver\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -89,48 +89,72 @@
           "warn": true,
           "downloadDependencies": [
             {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
               "name": "Microsoft.AspNetCore.App.Runtime.win-arm64",
-              "version": "[7.0.16, 7.0.16]"
+              "version": "[7.0.17, 7.0.17]"
             },
             {
               "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[7.0.16, 7.0.16]"
+              "version": "[7.0.17, 7.0.17]"
             },
             {
               "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
-              "version": "[7.0.16, 7.0.16]"
+              "version": "[7.0.17, 7.0.17]"
             },
             {
               "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
-              "version": "[7.0.16, 7.0.16]"
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-arm64",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x86",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
             },
             {
               "name": "Microsoft.NETCore.App.Runtime.win-arm64",
-              "version": "[7.0.16, 7.0.16]"
+              "version": "[7.0.17, 7.0.17]"
             },
             {
               "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[7.0.16, 7.0.16]"
+              "version": "[7.0.17, 7.0.17]"
             },
             {
               "name": "Microsoft.NETCore.App.Runtime.win-x86",
-              "version": "[7.0.16, 7.0.16]"
+              "version": "[7.0.17, 7.0.17]"
             },
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
               "version": "[10.0.22621.31, 10.0.22621.31]"
             },
             {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
               "name": "Microsoft.WindowsDesktop.App.Runtime.win-arm64",
-              "version": "[7.0.16, 7.0.16]"
+              "version": "[7.0.17, 7.0.17]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[7.0.16, 7.0.16]"
+              "version": "[7.0.17, 7.0.17]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
-              "version": "[7.0.16, 7.0.16]"
+              "version": "[7.0.17, 7.0.17]"
             }
           ],
           "frameworkReferences": {
@@ -141,7 +165,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

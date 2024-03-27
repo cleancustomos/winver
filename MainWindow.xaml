@@ -88,7 +88,7 @@
     HorizontalContentAlignment="Left"
     VerticalAlignment="Center"
     Margin="12,12,12,0"
-    IsExpanded="True">
+    IsExpanded="False">
                     <Expander.Header>
                         <StackPanel Orientation="Horizontal">
                             <FontIcon FontSize="15" Glyph="&#xE770;" Margin="0,0,8,0"/>
